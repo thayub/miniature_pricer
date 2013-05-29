@@ -40,7 +40,7 @@ $defaultValues = array(
 if ($input_time < 0 || $input_time > 90){
     echo ('Out of range');
     echo "\n";
-    echo ('Please enter a value between 1 and 90');
+    echo ('Please enter a value for days between 1 and 90');
     echo "\n";
 }else{
 
